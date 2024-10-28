@@ -1,3 +1,6 @@
+print('='*40)
+print('\tkeliling lingkaran')
+print('='*40)
 def lingkaran():
     jari_jari = int(input('masukkan jari-jari: '))
     keliling = lambda jari_jari: 2 * 3.14 * jari_jari
